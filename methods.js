@@ -1,5 +1,5 @@
-let favoriteFood = ["St. Louis", "Las Vegas", "Milwaukee", "Dallas", "New York"];
-favoriteFood.forEach(fruit => console.log(fruit.toUpperCase()));
+let favoriteCities = ["St. Louis", "Las Vegas", "Milwaukee", "Dallas", "New York"];
+favoriteCities.forEach(city => console.log(city.toUpperCase()));
 
 console.log(favoriteFood);
 
